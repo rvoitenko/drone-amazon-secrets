@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/drone/drone-amazon-secrets/plugin"
+	"github.com/rvoitenko/drone-amazon-secrets/plugin"
 	"github.com/drone/drone-go/plugin/secret"
 
 	"github.com/apex/gateway"

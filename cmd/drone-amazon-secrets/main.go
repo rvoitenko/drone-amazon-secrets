@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/drone/drone-amazon-secrets/plugin"
-	"github.com/drone/drone-amazon-secrets/server"
+	"github.com/rvoitenko/drone-amazon-secrets/plugin"
+	"github.com/rvoitenko/drone-amazon-secrets/server"
 	"github.com/drone/drone-go/plugin/secret"
 
 	"github.com/aws/aws-sdk-go-v2/aws/ec2metadata"
