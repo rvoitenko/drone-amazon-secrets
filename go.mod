@@ -1,6 +1,6 @@
-module github.com/drone/drone-amazon-secrets
+module github.com/rvoitenko/drone-amazon-secrets
 
-go 1.12
+go 1.15
 
 require (
 	github.com/apex/gateway v1.1.1
